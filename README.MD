@@ -1,4 +1,4 @@
-# UTN CYBERMONDAY EXERCICE
+# UTN CYBERMONDAY EXERCISE
 
 Un reconocido sitio en Internet de compras y ventas cuenta con la siguiente información de todas sus publicaciones realizadas durante el pasado CyberMonday:
 * Código de publicación (número entero no correlativo de cinco cifras).
